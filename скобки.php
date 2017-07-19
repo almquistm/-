@@ -1,4 +1,3 @@
-<?php
 <body>
 <input id="string" type="text" size="30"><br><br>
 <input id="testme" type="button" value="Test me!"><br><br>
